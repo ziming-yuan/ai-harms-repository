@@ -1,6 +1,6 @@
 # AI Harms Repository
 
-This is a website built with flask and Bootstrap 5. It uses news and reddit apis to fetch Deepfake-related content.
+This is a website built with flask and Bootstrap 5. It uses news and reddit apis to fetch Deepfake-related content for research on AI harms.
 
 ## Overview
 
@@ -8,7 +8,7 @@ This is a website built with flask and Bootstrap 5. It uses news and reddit apis
 
 ![image](./res/Login.png)
 
-2. Fetch new data from api again:
+2. Fetch new data from api endpoint again:
 
 ![image](./res/Interface.png)
 
@@ -16,7 +16,7 @@ This is a website built with flask and Bootstrap 5. It uses news and reddit apis
 
 ![image](./res/Manual-Add.png)
 
-4. Edit notes for new entry:
+4. Edit notes of entries:
 
 ![image](./res/Edit-Notes.png)
 
